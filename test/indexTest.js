@@ -37,7 +37,7 @@ describe('index.js', function () {
     });
 
     it('does not raise error if the companyCeo is changed', function () {
-      expect(function () { companyCeo = 'S' }).to.not.throw(TypeError);
+      expect(function () { companyCeo = 'Scaber' }).to.not.throw(TypeError);
     });
 
     it('is not defined as a const', function () {
