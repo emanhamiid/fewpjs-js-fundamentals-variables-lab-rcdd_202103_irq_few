@@ -1,4 +1,4 @@
 // Code your solution in this file!
 const companyName = 'Scuber';
 let mostProfitableNeighborhood ='Scuber';
-const companyCeo ='Lauren Hart';
+ companyCeo ='Lauren Hart';
