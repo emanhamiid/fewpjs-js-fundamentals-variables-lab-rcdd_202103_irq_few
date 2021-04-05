@@ -32,7 +32,7 @@ describe('index.js', function () {
   });
 
   describe('companyCeo', function () {
-    it('is declared as equal to Scuber', function () {
+    it('is declared as equal to ', function () {
       expect(companyCeo).to.equal('Lauren Hart');
     });
 
